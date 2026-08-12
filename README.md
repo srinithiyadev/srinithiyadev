@@ -26,7 +26,6 @@
 ### `whoami`
 
 ```
-
 > const srinithiya = {
     role: "Fresher — DevOps / SRE / Cloud",
     education: "MSc Computer Science, Bishop Heber College (2024–2026)",
