@@ -19,9 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=srinithiyadev&style=for-the-badge&color=00D9C0&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&height=2" width="100%"/>
-</p>
+---
 
 ### `whoami`
 
@@ -33,7 +31,6 @@
     focus: ["reliability", "automation", "cost-aware cloud infra"],
     philosophy: "no fabricated metrics, just infra that actually runs"
   };
-
 ```
 
 I'm a fresher building real, running systems instead of tutorial clones — an incident management pipeline that pages you when something breaks, a URL shortener actually deployed on EKS behind CI/CD, and cost tooling that answers "why is our AWS bill high" with numbers instead of guesses.
